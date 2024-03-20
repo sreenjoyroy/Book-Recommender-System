@@ -14,3 +14,4 @@ Scikit learn
 EDA
 Pandas
 Numpy
+The Kaggle Dataset used is: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download
